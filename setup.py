@@ -18,6 +18,7 @@ setup(
     long_description=long_description,
     install_requires=[
         "certifi",
+        "psutil"
     ],
     classifiers=[
         'Intended Audience :: Developers',
